@@ -1,0 +1,360 @@
+# -------------------------------------
+# State of Command: English locale
+# Format: key=value
+# Lines starting with # are comments
+# -------------------------------------
+
+# Main Menu
+menu.button.start_game= החל משחק
+menu.button.profile= פרופילים
+menu.button.settings= הגדרות
+menu.button.quit= צא מהמשחק
+menu.intro.presented_by=מוצג לכם על ידי 
+
+# Main Menu Settings
+menu.settings.title=הגדרות
+menu.settings.language=שפה
+
+# UI Manager| Flag Bar
+ui.button.diplomacy=דיפלומטיה
+ui.button.economy=כלכלה
+ui.button.unset=לא הוגדר 
+ui.button.military=צבא
+
+# UI Manager| Country Select
+ui.button.play_as= שחק כ
+
+# UI Manager| Settings
+ui.window.settings=הגדרות
+ui.settings.secondary_icons=השתמש בסמלי יחידות משניים 
+ui.settings.flag_zoom_out=Show הצג דגלים בהתרחקות (Units)
+ui.settings.nation_overlay=Nation תצוגה עילית (N)
+ui.settings.always_flag=Always הצג דגלים על יחידות(F)
+ui.settings.unit_size=גודל יחידה 
+
+# UI Manager| City tab (single city)
+ui.label.pop=אוכלוסייה: %d
+ui.label.buildings=מבנים:
+ui.label.no_buildings=אין מיבנים
+ui.label.construct=בנה:
+ui.button.factory=מפעל
+ui.button.military_hq=מפקדה צבאית
+ui.button.depot=מחסן
+
+# UI Manager| City Tab (multiple cities)
+ui.label.cities_selected=%zu ערים נבחרו
+ui.label.total_buildings=סה"כ מבנים:
+ui.label.no_buildings_selected=אין מבנים בערים שנבחרו
+ui.button.create_units=צור יחידות
+ui.button.construct_buildings=בנה מבנים
+
+# UI Manager| Building Tab
+ui.building.industrial_factory=מפעל תעשייתי
+ui.building.production_lines=קווי ייצור:
+ui.building.inventory=מלאי:
+ui.building.no_items=אין פריטים
+ui.button.add_production_line=הוסף קו ייצור
+ui.building.military_hq_title=מפקדה צבאית
+ui.button.spawn_unit=צור יחידה
+ui.building.supply_depot=מחסן אספק
+ui.building.stored_equipment=ציוד מאוחסן:
+ui.label.empty=ריק
+
+# UI Manager| Unit Creation Tab
+ui.label.select_unit_type=בחר סוג יחידה:
+ui.button.cancel=ביטול
+
+# UI Manager| Unit Tooltip
+ui.tooltip.no_equipment=אין ציוד
+ui.tooltip.morale=מורל: %.1f
+ui.tooltip.retreat_behavior=התנהגות נסיגה: %s
+ui.retreat.normal=רגילה
+ui.retreat.hold_position=החזק עמדה
+ui.retreat.fallback=נסיגה לאחור
+ui.tooltip.forming=בתהליך הכשרה: %.0f%%
+
+# UI Manager| Invasion Mode
+ui.invasion.mode_active=מצב פלישה פעיל
+ui.invasion.draw_line=צייר קו התקפה לתכנון
+ui.invasion.toggle_off=לחץ על 'I' לביטול
+ui.button.execute=בצע
+
+# UI Manager| Building Creation Tab
+ui.window.construct_building=בנייה
+ui.label.construct_building=בניית:
+
+# UI Manager| Diplomacy tab
+ui.diplomacy.your_nation=האומה שלך:
+ui.diplomacy.status_ally=בעל ברית
+ui.diplomacy.status_war=במלחמה
+ui.diplomacy.status_neutral=נייטרלי
+ui.diplomacy.button_ally=הכרז על ברית
+ui.diplomacy.button_war=הכרז מלחמה
+ui.diplomacy.button_break_alliance=פרק ברית
+ui.diplomacy.button_peace=הכרז על שלום
+ui.diplomacy.info_tooltip=לחץ לחיצה ימנית על המפה לסגירה
+
+# Editor| Top Bar
+editor.btn.provinces=מחוזות
+editor.btn.cities=ערים
+editor.btn.urban=עירוני
+editor.btn.roads=דרכים
+editor.btn.buildings=מבנים
+editor.btn.units=יחידות
+editor.btn.nations=אומות
+editor.btn.draw_province=ציור מחוז
+editor.btn.definitions=הגדרות
+editor.btn.ref=+ ייחוס
+editor.tooltip.render_settings=הגדרות רינדור
+editor.label.modified=[שונה]
+editor.label.no_map=לא נטעןה מפה — פתח את סייר המשאבים לטעינת סט מפות
+
+# Editor| Resource Browser
+editor.window.resource_browser=דפדפן משאבים
+editor.tab.maps=מפות
+editor.tab.units=יחידות
+editor.tab.flags=דגלים
+editor.btn.refresh=רענן
+editor.btn.load_map=טען מפה
+editor.btn.save_map=שמור מפה
+editor.btn.load_unit_set=טען ערכת יחידות
+editor.btn.save_flags=שמור דגלים
+editor.btn.load_flag_set=טען ערכת דגלים
+editor.btn.duplicate=שכפל
+editor.btn.save_to=שמור בשם...
+editor.hint.new_set_name=שם ערכה חדשה...
+editor.btn.create=צור
+editor.btn.save_all=שמור הכל (Ctrl+S)
+editor.label.unsaved=שינויים שלא נשמרו!
+editor.hint.or_new_name=או הקלד שם חדש...
+editor.btn.save=שמור
+
+# Editor| Duplicate / Save To Popups
+editor.popup.duplicate_title=שכפול ערכה
+editor.popup.duplicate_format=שכפל ערכת %s
+editor.popup.new_name_label=שם חדש
+editor.btn.duplicate_confirm=שכפל
+editor.btn.cancel=ביטול
+editor.popup.save_to_title=שמירה לערכה
+editor.popup.save_to_format=שמור נתונים נוכחיים לערכת %s:
+editor.set_type.map=מפה
+editor.set_type.unit=יחידה
+editor.set_type.flag=דגל
+
+# Editor| Province Panel
+editor.window.province=מאפייני מחוז
+editor.label.province_id=מזהה מחוז: %d
+editor.input.province_name=שם המחוז
+editor.input.owning_nation=לאום שולט
+editor.input.assign_nation=הקצה ללאום
+editor.label.vertices=קודקודים: %d (גבול: %d)
+editor.label.vertex_info=קודקוד #%d (%.6f, %.6f)
+editor.input.vertex_pos=מיקום
+editor.label.belongs_to=שייך למחוז: %d (%s)
+editor.input.reassign_id=הקצה מחדש למזהה מחוז
+editor.btn.reassign=הקצה קודקוד מחדש
+editor.btn.remove_vertex=הסר קודקוד
+editor.label.interior_vertex=(קודקוד פנימי)
+editor.label.min_verts=(מינימום 3 קודקודים)
+editor.label.province_management=ניהול מחוזות
+editor.btn.stop_adding=הפסק הוספה
+editor.btn.add_vertex=הוסף קודקוד
+editor.label.click_boundary=לחץ על הגבול כדי להוסיף
+editor.btn.draw_new_province=צייר מחוז חדש
+editor.label.drawing_verts=מצייר... (%d קודקודים)
+editor.btn.delete_province=מחק מחוז זה
+
+# Editor| Nation Panel
+editor.window.nation=מאפייני לאום
+editor.label.nation_hash=Hash: %u  מחוזות: %d
+editor.input.nation_name=שם הלאום
+editor.label.no_flag=(אין דגל)
+editor.label.flag_set=ערכת דגלים: %s
+editor.btn.change_flag=שנה דגל...
+editor.label.allies=בעלי ברית
+editor.btn.add_ally=הוסף בעל ברית
+editor.label.enemies=אויבים
+editor.btn.add_enemy=הוסף אויב
+editor.label.province_list_header=רשימת מחוזות
+editor.label.state_management=ניהול מדינות
+editor.input.new_state_name=שם מדינה חדשה
+editor.btn.create_state=צור מדינה
+editor.btn.delete_state=מחק מדינה זו
+
+# Editor| City Panel
+editor.window.city=עורך ערים
+editor.label.cities_count=ערים: %d
+editor.btn.placing_cities=ממקם ערים...
+editor.btn.place_city=מקם עיר
+editor.label.click_map_place=לחץ על המפה למיקום
+editor.label.city_id=עיר #%d
+editor.input.city_name=שם
+editor.input.city_state=מדינה
+editor.input.city_province=מחוז
+editor.input.population=אוכלוסייה
+editor.input.lon_lat=קו אורך / קו רוחב
+editor.checkbox.urban_area=אזור עירוני
+editor.label.world_coords=עולם: (%.4f, %.4f)
+editor.btn.delete_city=מחק עיר
+editor.input.filter=סינון
+
+# Editor| Road Panel
+editor.window.road=עורך כבישים
+editor.label.segments=מקטעים: %d
+editor.btn.new_segment=מקטע חדש
+editor.label.add_mode=מצב הוספה
+editor.btn.stop=עצור
+editor.btn.add_points=הוסף נקודות
+editor.label.segment_info=מקטע #%d (%d נק')
+editor.input.point_pos=מיקום נקודה
+editor.btn.delete_point=מחק נקודה
+editor.btn.delete_segment=מחק מקטע
+
+# Editor| Building Panel
+editor.window.building=עורך מבנים
+editor.label.buildings_click=מבנים: %d — לחץ על המפה למיקום
+editor.label.building_id=מבנה #%d
+editor.input.building_type=סוג
+editor.input.owner_state=מדינה בעלים
+editor.input.city_assign=עיר
+editor.input.building_pos=מיקום
+editor.label.drag_map=גרור על המפה כדי להזיז
+editor.label.factory_props=מאפייני מפעל
+editor.input.throughput=קיבולת תפוקה
+editor.input.shipping_threshold=סף משלוח
+editor.label.production_lines_count=קווי ייצור: %d
+editor.input.equipment=ציוד
+editor.input.capacity=קיבולת
+editor.btn.remove=הסר
+editor.btn.add_production_line=הוסף קו ייצור
+editor.label.depot_props=מאפייני מחסן
+editor.input.max_equipment=קיבולת ציוד מקסימלית
+editor.input.max_manpower=קיבולת כוח אדם מקסימלית
+editor.label.military_hq=מפקדה צבאית
+editor.label.no_additional_props=אין מאפיינים נוספים
+editor.btn.delete_building=מחק מבנה
+
+# Editor| Unit Panel
+editor.window.unit=עורך יחידות
+editor.label.units_click=יחידות: %d — לחץ על המפה למיקום
+editor.label.unit_id=יחידה #%d
+editor.input.given_name=שם
+editor.label.given_name_hint=שם היחידה (לא חובה, ייווצר אוטומטית)
+editor.input.definition=הגדרה
+editor.checkbox.fully_formed=מגובשת במלואה (נוצרת בכוח מלא)
+editor.btn.generate_name=שם אוטומטי
+editor.btn.delete_unit=מחק יחידה
+
+# Editor| Status Bar
+editor.mode.provinces=Provinces
+editor.mode.cities=Cities
+editor.mode.urban_areas=Urban Areas
+editor.mode.roads=Roads
+editor.mode.buildings=Buildings
+editor.mode.units=Units
+editor.mode.nations=Nations
+editor.status.modified= [MODIFIED]
+editor.status.dropper_active= | DROPPER ACTIVE
+editor.status.add_vertex= | ADD VERTEX
+editor.status.no_map=No map loaded
+
+# Editor| Help Overlay
+editor.window.controls=מקשים ופקדים
+editor.help.navigation=ניווט
+editor.help.wasd=WASD / גרירה בימני: הזזה (Pan)
+editor.help.scroll=גלילה: זום
+editor.help.selection=בחירה
+editor.help.click=לחיצה: בחירה / מיקום
+editor.help.shift_click=Shift+לחיצה: לאום (במצב מחוז)
+editor.help.drag=גרירה: הזזת פריט נבחר
+editor.help.escape=Escape: ביטול בחירה
+editor.help.ctrl_s=Ctrl+S: שמירת הכל
+editor.help.pick=כפתור בחירה: כלי הטפטפת
+
+# Editor| Dropper Overlay
+editor.dropper.click_province=לחץ על מחוז כדי לבחור מדינה
+
+# Editor| Dropper Button
+editor.btn.picking=בוחר...
+editor.btn.pick=בחר
+editor.tooltip.dropper=לחץ על מחוז במפה כדי לבחור את המדינה השולטת בו
+
+# Editor| Nation/Province Combo Filters
+editor.hint.search_nations=חפש לאומים...
+editor.hint.search_provinces=חפש מחוזות...
+
+# ---- Editor — Province Creation Panel ----
+editor.window.draw_province=ציור מחוז
+editor.label.click_map_vertices=לחץ על המפה כדי למקם קודקודים
+editor.label.vertices_placed=קודקודים שמוקמו: %d
+editor.input.create_prov_name=שם המחוז
+editor.input.create_prov_state=מדינה
+editor.btn.undo_last=בטל קודקוד אחרון
+editor.btn.finish_province=סיים יצירת מחוז
+editor.label.or_click_first=או לחץ ליד הקודקוד הראשון (הנקודה הירוקה) כדי לסגור את הצורה.
+editor.label.min_3_verts=יש למקם לפחות 3 קודקודים כדי לסיים.
+
+# Editor| Reference Overlay Panel
+editor.window.ref_image=מאפייני תמונת ייחוס
+editor.btn.delete=מחק
+editor.btn.unlock=שחרר נעילה
+editor.btn.lock=נעל
+editor.btn.hide=הסתר
+editor.btn.show=הצג
+editor.input.opacity=אטימות
+editor.input.position=מיקום
+editor.input.size=גודל (רוחב/גובה)
+editor.input.scale=קנה מידה
+editor.btn.fit_to_map=התאם למפה
+
+# Editor| Render Settings 
+editor.window.render_settings=הגדרות רינדור
+editor.label.tile_textures=טקסטורות אריחים
+editor.checkbox.show_tile_textures=הצג טקסטורות אריחים
+editor.input.tint_strength=חוזק גוון (Tint)
+editor.label.nation_rendering=תצוגת לאומים
+editor.checkbox.render_by_nation=הצג לפי צבע לאום
+editor.checkbox.show_nation_flags=הצג דגלי לאומים
+editor.tooltip.nation_flags=הצג דגלי לאומים מעל מרכז הטריטוריה שלהם
+editor.label.layer_opacities=שקיפות שכבות
+editor.input.provinces_opacity=מחוזות
+editor.input.roads_opacity=כבישים
+editor.input.city_dots_opacity=נקודות ערים
+editor.input.urban_areas_opacity=אזורים עירוניים
+editor.input.buildings_opacity=מבנים
+editor.input.units_opacity=יחידות
+editor.btn.reset_all=איפוס הכל
+
+# Editor| Urban Area Panel
+editor.window.urban=עורך אזורים עירוניים
+editor.label.urban_count=אזורים עירוניים: %d
+editor.btn.draw_urban=צייר אזור עירוני
+editor.label.drawing_urban=מצייר... (%d קודקודים)
+editor.label.urban_id=אזור עירוני #%d (%d קודקודי גבול)
+editor.input.urban_name=שם
+editor.input.urban_state=מדינה בעלים
+editor.input.urban_province=מחוז
+editor.input.urban_pop=אוכלוסייה
+editor.input.filter_urban=סינון
+
+# Editor| Urban Area Creation Panel
+editor.window.draw_urban=צייר אזור עירוני
+editor.input.create_urban_name=שם
+editor.input.create_urban_state=מדינה
+editor.btn.finish_urban=סיים יצירת אזור עירוני
+
+# Editor| Nation Editor Tab
+editor.window.nation_editor=עורך לאומים
+editor.label.nations_count=לאומים: %d
+editor.input.filter_nations=סינון
+editor.label.selected_nation=נבחר: %s
+editor.input.nation_name_ne=שם הלאום
+editor.label.provinces_ne=מחוזות
+
+# Editor| Definition Editor 
+editor.window.definition_editor=עורך הגדרות
+editor.btn.equipment_tab=ציוד
+editor.btn.units_tab=יחידות
+editor.btn.save_all_def=שמור הכל
+editor.btn.close=סגור
+editor.label.background_icons=אייקוני רקע
