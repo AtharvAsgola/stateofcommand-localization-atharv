@@ -1,5 +1,4 @@
 # State of Command Localization
-### Translations By Atharv
 
 This repository contains the community translation files for **State of Command**.
 
