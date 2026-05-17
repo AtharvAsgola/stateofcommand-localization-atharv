@@ -10,7 +10,7 @@ menu.button.profile=प्रोफाइल
 menu.button.settings=सेटिंग्ज
 menu.button.quit=बाहेर पडा
 menu.intro.presented_by=तुमच्यासाठी सादर केले
-menu.intro.layth_issam_elzaim=ल े य थ  इ स स ा म  ए ल  झ ै म
+menu.intro.layth_issam_elzaim=ल ै थ  इ स ा म  ए ल  झ ै म
 # You can transliterate or get the equivalent of my name in your language, 
 #make sure to do a space between each character that is next to each other, 
 #and double space where there would normally be 1 space.
